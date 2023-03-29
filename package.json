@@ -1,0 +1,22 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "エレクトロンチュートリアル",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finyucon/my-electron-app.git"
+  },
+  "author": "AyanoIgei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finyucon/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/finyucon/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  }
+}
